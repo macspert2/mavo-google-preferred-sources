@@ -1,0 +1,110 @@
+# English (US) translations for Google Preferred Sources Button
+# Copyright (C) 2026
+# This file is distributed under the same license as the Google Preferred Sources Button plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Preferred Sources Button 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-07T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-06-07T00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: \n"
+
+msgid "Add us as a preferred source on Google"
+msgstr "Add us as a preferred source on Google"
+
+msgid "Prefer us on Google"
+msgstr "Prefer us on Google"
+
+msgid "What is this?"
+msgstr "What is this?"
+
+msgid "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
+msgstr "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
+
+msgid "Google Preferred Sources"
+msgstr "Google Preferred Sources"
+
+msgid "Displays a Google Preferred Sources button to encourage readers to follow your site."
+msgstr "Displays a Google Preferred Sources button to encourage readers to follow your site."
+
+msgid "Title:"
+msgstr "Title:"
+
+msgid "Leave empty to show no title."
+msgstr "Leave empty to show no title."
+
+msgid "Google Preferred Sources — Settings"
+msgstr "Google Preferred Sources — Settings"
+
+msgid "Preferred Sources"
+msgstr "Preferred Sources"
+
+msgid "Source Domain"
+msgstr "Source Domain"
+
+msgid "Primary source domain"
+msgstr "Primary source domain"
+
+msgid "Used for all languages unless a per-language override is set below."
+msgstr "Used for all languages unless a per-language override is set below."
+
+msgid "Override domain for %s"
+msgstr "Override domain for %s"
+
+msgid "Fill only if this language runs on its own domain or subdomain."
+msgstr "Fill only if this language runs on its own domain or subdomain."
+
+msgid "Leave empty to use primary domain"
+msgstr "Leave empty to use primary domain"
+
+msgid "Automatically append button below single posts"
+msgstr "Automatically append button below single posts"
+
+msgid "Post types"
+msgstr "Post types"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "After content"
+msgstr "After content"
+
+msgid "Before content"
+msgstr "Before content"
+
+msgid "Button style"
+msgstr "Button style"
+
+msgid "Official badge image"
+msgstr "Official badge image"
+
+msgid "Text/CSS pill button"
+msgstr "Text/CSS pill button"
+
+msgid "Enable tooltip"
+msgstr "Enable tooltip"
+
+msgid "Show the explanatory tooltip (ⓘ button)"
+msgstr "Show the explanatory tooltip (ⓘ button)"
+
+msgid "Show below posts"
+msgstr "Show below posts"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Use the shortcode below to place the button manually anywhere in your content:"
+msgstr "Use the shortcode below to place the button manually anywhere in your content:"
+
+msgid "<strong>Important:</strong> Your site must be listed in Google's source-preferences tool before this button has any effect. <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Check if your domain appears there ↗</a>"
+msgstr "<strong>Important:</strong> Your site must be listed in Google's source-preferences tool before this button has any effect. <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Check if your domain appears there ↗</a>"
+
+msgid "Google only supports domain-level sources — <strong>subdirectories are not eligible</strong>. Use the bare registered domain (e.g. <code>example.com</code>). <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Verify your domain is listed on Google ↗</a>"
+msgstr "Google only supports domain-level sources — <strong>subdirectories are not eligible</strong>. Use the bare registered domain (e.g. <code>example.com</code>). <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Verify your domain is listed on Google ↗</a>"

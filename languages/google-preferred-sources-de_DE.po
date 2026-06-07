@@ -1,0 +1,110 @@
+# German (Germany) translations for Google Preferred Sources Button
+# Copyright (C) 2026
+# This file is distributed under the same license as the Google Preferred Sources Button plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Preferred Sources Button 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-07T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-06-07T00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: \n"
+
+msgid "Add us as a preferred source on Google"
+msgstr "Als bevorzugte Quelle bei Google hinzufügen"
+
+msgid "Prefer us on Google"
+msgstr "Bei Google bevorzugen"
+
+msgid "What is this?"
+msgstr "Was ist das?"
+
+msgid "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
+msgstr "„Bevorzugte Quellen“ ist eine Funktion der Google Suche, mit der Sie die Publisher auswählen können, die Sie häufiger sehen möchten. Wenn Sie uns als bevorzugte Quelle hinzufügen, erscheinen unsere Artikel mit höherer Wahrscheinlichkeit im Bereich „Top-Meldungen“ sowie in einem eigenen Bereich „Aus Ihren Quellen“, wenn wir aktuelle Inhalte zu Ihrem Suchbegriff veröffentlichen. Beim Klick öffnet sich die Google-Seite für Quelleneinstellungen, auf der Sie Ihre Auswahl bei angemeldetem Google-Konto bestätigen. Das ändert nicht das Ranking für alle Nutzer, sondern personalisiert Ihre eigenen Ergebnisse — Sie können Quellen jederzeit hinzufügen oder entfernen."
+
+msgid "Google Preferred Sources"
+msgstr "Google – Bevorzugte Quellen"
+
+msgid "Displays a Google Preferred Sources button to encourage readers to follow your site."
+msgstr "Zeigt eine Schaltfläche für Google-Bevorzugte-Quellen an, um Leser zu ermutigen, Ihre Website zu folgen."
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Leave empty to show no title."
+msgstr "Leer lassen, um keinen Titel anzuzeigen."
+
+msgid "Google Preferred Sources — Settings"
+msgstr "Google – Bevorzugte Quellen — Einstellungen"
+
+msgid "Preferred Sources"
+msgstr "Bevorzugte Quellen"
+
+msgid "Source Domain"
+msgstr "Quell-Domain"
+
+msgid "Primary source domain"
+msgstr "Primäre Quell-Domain"
+
+msgid "Used for all languages unless a per-language override is set below."
+msgstr "Wird für alle Sprachen verwendet, sofern unten keine sprachspezifische Domain festgelegt ist."
+
+msgid "Override domain for %s"
+msgstr "Domain für %s überschreiben"
+
+msgid "Fill only if this language runs on its own domain or subdomain."
+msgstr "Nur ausfüllen, wenn diese Sprache auf einer eigenen Domain oder Subdomain betrieben wird."
+
+msgid "Leave empty to use primary domain"
+msgstr "Leer lassen, um die primäre Domain zu verwenden"
+
+msgid "Automatically append button below single posts"
+msgstr "Schaltfläche automatisch unter einzelnen Beiträgen anhängen"
+
+msgid "Post types"
+msgstr "Beitragstypen"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "After content"
+msgstr "Nach dem Inhalt"
+
+msgid "Before content"
+msgstr "Vor dem Inhalt"
+
+msgid "Button style"
+msgstr "Schaltflächen-Stil"
+
+msgid "Official badge image"
+msgstr "Offizielles Badge-Bild"
+
+msgid "Text/CSS pill button"
+msgstr "Text-Schaltfläche"
+
+msgid "Enable tooltip"
+msgstr "Tooltip aktivieren"
+
+msgid "Show the explanatory tooltip (ⓘ button)"
+msgstr "Erklärenden Tooltip anzeigen (ⓘ-Schaltfläche)"
+
+msgid "Show below posts"
+msgstr "Unter Beiträgen anzeigen"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Use the shortcode below to place the button manually anywhere in your content:"
+msgstr "Verwenden Sie den folgenden Shortcode, um die Schaltfläche manuell in Ihrem Inhalt zu platzieren:"
+
+msgid "<strong>Important:</strong> Your site must be listed in Google's source-preferences tool before this button has any effect. <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Check if your domain appears there ↗</a>"
+msgstr "<strong>Wichtig:</strong> Ihre Website muss im Quelleneinstellungs-Tool von Google gelistet sein, damit diese Schaltfläche einen Effekt hat. <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Prüfen Sie, ob Ihre Domain dort angezeigt wird ↗</a>"
+
+msgid "Google only supports domain-level sources — <strong>subdirectories are not eligible</strong>. Use the bare registered domain (e.g. <code>example.com</code>). <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Verify your domain is listed on Google ↗</a>"
+msgstr "Google unterstützt nur Quellen auf Domain-Ebene — <strong>Unterverzeichnisse sind nicht zulässig</strong>. Verwenden Sie die reine registrierte Domain (z. B. <code>example.com</code>). <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Prüfen Sie, ob Ihre Domain bei Google aufgeführt ist ↗</a>"

@@ -1,0 +1,110 @@
+# French (France) translations for Google Preferred Sources Button
+# Copyright (C) 2026
+# This file is distributed under the same license as the Google Preferred Sources Button plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Preferred Sources Button 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-07T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-06-07T00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: \n"
+
+msgid "Add us as a preferred source on Google"
+msgstr "Ajoutez-nous comme source préférée sur Google"
+
+msgid "Prefer us on Google"
+msgstr "Suivez-nous en priorité sur Google"
+
+msgid "What is this?"
+msgstr "Qu'est-ce que c'est ?"
+
+msgid "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
+msgstr "« Sources préférées » est une fonctionnalité de Google Search qui vous permet de choisir les éditeurs que vous souhaitez voir plus souvent. Lorsque vous nous ajoutez comme source préférée, nos articles ont plus de chances d'apparaître pour vous dans la section « À la une », ainsi que dans un espace dédié « À partir de vos sources », lorsque nous publions un contenu d'actualité lié à votre recherche. En cliquant, vous ouvrez la page des préférences de sources de Google où vous confirmez votre choix une fois connecté à votre compte Google. Cela ne modifie pas le classement pour tout le monde : cela personnalise vos propres résultats, et vous pouvez ajouter ou retirer des sources à tout moment."
+
+msgid "Google Preferred Sources"
+msgstr "Sources préférées Google"
+
+msgid "Displays a Google Preferred Sources button to encourage readers to follow your site."
+msgstr "Affiche un bouton Sources préférées Google pour inciter les lecteurs à suivre votre site."
+
+msgid "Title:"
+msgstr "Titre :"
+
+msgid "Leave empty to show no title."
+msgstr "Laissez vide pour ne pas afficher de titre."
+
+msgid "Google Preferred Sources — Settings"
+msgstr "Sources préférées Google — Réglages"
+
+msgid "Preferred Sources"
+msgstr "Sources préférées"
+
+msgid "Source Domain"
+msgstr "Domaine source"
+
+msgid "Primary source domain"
+msgstr "Domaine source principal"
+
+msgid "Used for all languages unless a per-language override is set below."
+msgstr "Utilisé pour toutes les langues sauf si un domaine spécifique est défini ci-dessous."
+
+msgid "Override domain for %s"
+msgstr "Domaine pour %s"
+
+msgid "Fill only if this language runs on its own domain or subdomain."
+msgstr "Renseignez uniquement si cette langue est hébergée sur son propre domaine ou sous-domaine."
+
+msgid "Leave empty to use primary domain"
+msgstr "Laisser vide pour utiliser le domaine principal"
+
+msgid "Automatically append button below single posts"
+msgstr "Ajouter automatiquement le bouton sous les articles individuels"
+
+msgid "Post types"
+msgstr "Types de contenu"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "After content"
+msgstr "Après le contenu"
+
+msgid "Before content"
+msgstr "Avant le contenu"
+
+msgid "Button style"
+msgstr "Style du bouton"
+
+msgid "Official badge image"
+msgstr "Image de badge officielle"
+
+msgid "Text/CSS pill button"
+msgstr "Bouton texte"
+
+msgid "Enable tooltip"
+msgstr "Activer l'info-bulle"
+
+msgid "Show the explanatory tooltip (ⓘ button)"
+msgstr "Afficher l'info-bulle explicative (bouton ⓘ)"
+
+msgid "Show below posts"
+msgstr "Afficher sous les articles"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Use the shortcode below to place the button manually anywhere in your content:"
+msgstr "Utilisez le shortcode ci-dessous pour placer le bouton manuellement dans votre contenu :"
+
+msgid "<strong>Important:</strong> Your site must be listed in Google's source-preferences tool before this button has any effect. <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Check if your domain appears there ↗</a>"
+msgstr "<strong>Important :</strong> Votre site doit être référencé dans l'outil de sources préférées de Google pour que ce bouton soit utile. <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Vérifiez si votre domaine y apparaît ↗</a>"
+
+msgid "Google only supports domain-level sources — <strong>subdirectories are not eligible</strong>. Use the bare registered domain (e.g. <code>example.com</code>). <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Verify your domain is listed on Google ↗</a>"
+msgstr "Google ne prend en charge que les sources au niveau du domaine — <strong>les sous-répertoires ne sont pas éligibles</strong>. Utilisez le domaine nu (ex. <code>example.com</code>). <a href=\"https://www.google.com/preferences/source\" target=\"_blank\" rel=\"noopener\">Vérifiez que votre domaine est référencé sur Google ↗</a>"

@@ -149,6 +149,19 @@
 	align-items: flex-start;
 }
 
+.gps-context-widget .gps-info {
+	color: #fff;
+	border-color: #fff;
+}
+
+.gps-context-widget .gps-info:hover,
+.gps-context-widget .gps-info:focus-visible {
+	color: #fff;
+	border-color: #fff;
+	outline-color: #fff;
+	opacity: 0.75;
+}
+
 .gps-context-widget .gps-tip {
 	position: static;
 	max-width: 100%;

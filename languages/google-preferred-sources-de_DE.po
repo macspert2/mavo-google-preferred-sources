@@ -25,8 +25,8 @@ msgstr "Bei Google bevorzugen"
 msgid "What is this?"
 msgstr "Was ist das?"
 
-msgid "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
-msgstr "„Bevorzugte Quellen“ ist eine Funktion der Google Suche, mit der Sie die Publisher auswählen können, die Sie häufiger sehen möchten. Wenn Sie uns als bevorzugte Quelle hinzufügen, erscheinen unsere Artikel mit höherer Wahrscheinlichkeit im Bereich „Top-Meldungen“ sowie in einem eigenen Bereich „Aus Ihren Quellen“, wenn wir aktuelle Inhalte zu Ihrem Suchbegriff veröffentlichen. Beim Klick öffnet sich die Google-Seite für Quelleneinstellungen, auf der Sie Ihre Auswahl bei angemeldetem Google-Konto bestätigen. Das ändert nicht das Ranking für alle Nutzer, sondern personalisiert Ihre eigenen Ergebnisse — Sie können Quellen jederzeit hinzufügen oder entfernen."
+msgid "You read this blog — which means you value quality content grounded in real experiences. With Google Preferred Sources, tell Google which publishers you trust. Add us and other sources you love, and Google will surface them more in your future search results."
+msgstr "Sie lesen diesen Blog — das zeigt Ihren Sinn für hochwertige Inhalte aus echten Erfahrungen. Mit „Bevorzugte Quellen” teilen Sie Google mit, welchen Quellen Sie vertrauen. Fügen Sie uns und andere Qualitätsquellen hinzu, und Google zeigt sie Ihnen künftig prominenter in den Suchergebnissen."
 
 msgid "Google Preferred Sources"
 msgstr "Google – Bevorzugte Quellen"

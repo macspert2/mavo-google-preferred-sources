@@ -25,8 +25,8 @@ msgstr "Prefer us on Google"
 msgid "What is this?"
 msgstr "What is this?"
 
-msgid "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
-msgstr "Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the \"Top Stories\" section — and in a dedicated \"From your sources\" area — when we publish timely content related to what you're searching for. Clicking opens Google's source-preferences page, where you confirm your choice while signed in to your Google account. It doesn't change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time."
+msgid "You read this blog — which means you value quality content grounded in real experiences. With Google Preferred Sources, tell Google which publishers you trust. Add us and other sources you love, and Google will surface them more in your future search results."
+msgstr "You read this blog — which means you value quality content grounded in real experiences. With Google Preferred Sources, tell Google which publishers you trust. Add us and other sources you love, and Google will surface them more in your future search results."
 
 msgid "Google Preferred Sources"
 msgstr "Google Preferred Sources"

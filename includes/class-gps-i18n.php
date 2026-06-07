@@ -69,7 +69,7 @@ class GPS_I18n {
 		$defaults = array(
 			'label_full'  => __( 'Add us as a preferred source on Google', $domain ),
 			'label_short' => __( 'Prefer us on Google', $domain ),
-			'tooltip'     => __( 'Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the "Top Stories" section — and in a dedicated "From your sources" area — when we publish timely content related to what you\'re searching for. Clicking opens Google\'s source-preferences page, where you confirm your choice while signed in to your Google account. It doesn\'t change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time.', $domain ),
+			'tooltip'     => __( 'You read this blog — which means you value quality content grounded in real experiences. With Google Preferred Sources, tell Google which publishers you trust. Add us and other sources you love, and Google will surface them more in your future search results.', $domain ),
 			'heading'     => __( 'What is this?', $domain ),
 		);
 
@@ -115,9 +115,9 @@ class GPS_I18n {
 				'de' => 'Was ist das?',
 			),
 			'tooltip'     => array(
-				'fr' => '« Sources préférées » est une fonctionnalité de Google Search qui vous permet de choisir les éditeurs que vous souhaitez voir plus souvent. Lorsque vous nous ajoutez comme source préférée, nos articles ont plus de chances d\'apparaître pour vous dans la section « À la une », ainsi que dans un espace dédié « À partir de vos sources », lorsque nous publions un contenu d\'actualité lié à votre recherche. En cliquant, vous ouvrez la page des préférences de sources de Google où vous confirmez votre choix une fois connecté à votre compte Google. Cela ne modifie pas le classement pour tout le monde : cela personnalise vos propres résultats, et vous pouvez ajouter ou retirer des sources à tout moment.',
-				'en' => 'Preferred Sources is a Google Search feature that lets you choose the publishers you want to see more of. When you add us as a preferred source, our articles are more likely to appear for you in the "Top Stories" section — and in a dedicated "From your sources" area — when we publish timely content related to what you\'re searching for. Clicking opens Google\'s source-preferences page, where you confirm your choice while signed in to your Google account. It doesn\'t change rankings for everyone; it personalizes your own results, and you can add or remove sources at any time.',
-				'de' => '„Bevorzugte Quellen" ist eine Funktion der Google Suche, mit der Sie die Publisher auswählen können, die Sie häufiger sehen möchten. Wenn Sie uns als bevorzugte Quelle hinzufügen, erscheinen unsere Artikel mit höherer Wahrscheinlichkeit im Bereich „Top-Meldungen" sowie in einem eigenen Bereich „Aus Ihren Quellen", wenn wir aktuelle Inhalte zu Ihrem Suchbegriff veröffentlichen. Beim Klick öffnet sich die Google-Seite für Quelleneinstellungen, auf der Sie Ihre Auswahl bei angemeldetem Google-Konto bestätigen. Das ändert nicht das Ranking für alle Nutzer, sondern personalisiert Ihre eigenen Ergebnisse — Sie können Quellen jederzeit hinzufügen oder entfernen.',
+				'fr' => 'Vous lisez ce blog, preuve que vous aimez les contenus de qualité fondés sur de vraies expériences. Avec Sources préférées, indiquez à Google les éditeurs en qui vous avez confiance. Ajoutez-nous ainsi que d\'autres sources que vous appréciez : Google les mettra davantage en avant dans vos futurs résultats de recherche.',
+				'en' => 'You read this blog — which means you value quality content grounded in real experiences. With Google Preferred Sources, tell Google which publishers you trust. Add us and other sources you love, and Google will surface them more in your future search results.',
+				'de' => 'Sie lesen diesen Blog — das zeigt Ihren Sinn für hochwertige Inhalte aus echten Erfahrungen. Mit „Bevorzugte Quellen" teilen Sie Google mit, welchen Quellen Sie vertrauen. Fügen Sie uns und andere Qualitätsquellen hinzu, und Google zeigt sie Ihnen künftig prominenter in den Suchergebnissen.',
 			),
 		);
 

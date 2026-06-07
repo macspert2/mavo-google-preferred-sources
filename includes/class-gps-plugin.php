@@ -44,7 +44,7 @@ class GPS_Plugin {
 			'gps-style',
 			GPS_PLUGIN_URL . 'assets/css/gps.css',
 			array(),
-			GPS_VERSION
+			(string) filemtime( GPS_PLUGIN_DIR . 'assets/css/gps.css' )
 		);
 		wp_register_script(
 			'gps-script',
